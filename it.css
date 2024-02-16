@@ -1,0 +1,82 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .header {
+    background-color: blue;
+    color: white;
+    text-align: center;
+    padding: 40px 0;
+  }
+  
+  .club-name {
+    font-size: 2.5em;
+    margin-bottom: 10px;
+  }
+  
+  .caption {
+    font-size: 1.2em;
+  }
+  
+  .office-bearers {
+    background-color: #f2f2f2;
+    padding: 40px 0;
+  }
+  
+  .office-bearers h2 {
+    text-align: center;
+  }
+  
+  .person {
+    text-align: center;
+  }
+  
+  .person img {
+    width: 150px;
+    border-radius: 50%;
+    margin-bottom: 10px;
+  }
+  
+  .objectives {
+    padding: 40px 0;
+  }
+  
+  .objectives h2 {
+    text-align: center;
+  }
+  
+  .event-calendar {
+    background-color: #f9f9f9;
+    padding: 40px 0;
+  }
+  
+  .event-calendar h2 {
+    text-align: center;
+  }
+  
+  .event-calendar table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .event-calendar th, .event-calendar td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  .footer {
+    background-color: blue;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+  }
+  
